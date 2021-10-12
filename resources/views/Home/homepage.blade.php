@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Restautant Management System</h1>
+    <h2>Hello</h2>
 </body>
 </html>
